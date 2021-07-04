@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharathveerakumar
-- 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning DSA and Full stack
+- 👀 I’m interested in creating web apps and mobile apps
+- 🌱 I’m currently learning competitive programming and Full stack web development
 
 <!---
 bharathveerakumar/bharathveerakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
